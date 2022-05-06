@@ -1,6 +1,6 @@
 ### Instalación y configuración de servidor web Nginx.
 
-## Carlos Herrera MArtín
+## Carlos Herrera Martín
 
 # Instalación
 Lo primero que deberemos hacer es instalar Nginx.
